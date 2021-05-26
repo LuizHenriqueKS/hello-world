@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Print 'Hello world' on the screen",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizHenriqueKS/hello-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuizHenriqueKS/hello-world/issues"
+  },
+  "homepage": "https://github.com/LuizHenriqueKS/hello-world#readme"
+}
